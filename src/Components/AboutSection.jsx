@@ -10,7 +10,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Data Engineer
+              Passionate Web Developer & Software Developer
             </h3>
             <p className="text-muted-foreground">
               I've built web apps and data-driven systems, combining frontend skills with machine learning to create practical and user-focused solutions.
@@ -24,7 +24,9 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href=""
+                href="/VAISHAKH_KUDUVAN_CS2.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transitions-color duration-300"
               >
                 Download CV

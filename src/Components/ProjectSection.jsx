@@ -8,7 +8,7 @@ const projects =[
         image: "/projects/AgriLens.png",
         tags: ["Machine Learning", "Data Science", "Scikit-learn","Time Series Forecasting"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/VaishakhKuduvan/Agro_price_prediction",
 
     },
     {
@@ -17,8 +17,8 @@ const projects =[
         description: "A responsive chat app built during my internship using HTML, CSS, and JavaScript. It allows real-time messaging with a clean and user-friendly interface.",
         image: "/projects/ChatApp.png",
         tags: ["JavaScript", "HTML/CSS", "Firebase", "Bootstrap"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://chat-application-ochre-chi.vercel.app/",
+        githubUrl: "https://github.com/VaishakhKuduvan/Chat_application",
     },
     {
         id: 3,
@@ -26,8 +26,8 @@ const projects =[
         description: "A sleek and responsive portfolio website built using React and Tailwind CSS to showcase my skills, projects, and contact info.",
         image: "/projects/Portfolio.png",
         tags: ["React", "Tailwind CSS", "Responsive Design"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://my-react-tailwind-portfolio-seven.vercel.app/",
+        githubUrl: "https://github.com/VaishakhKuduvan/my_react_tailwind_portfolio",
     },
     {
         id: 4,
@@ -36,7 +36,7 @@ const projects =[
         image: "/projects/MovieRec.png",
         tags: ["Python", "Machine Learning", "Flask", "Cosine Similarity", "TF-IDF"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/VaishakhKuduvan/Movie_recommendation_system",
     },
     
 
