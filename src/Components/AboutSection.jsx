@@ -24,7 +24,7 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/VAISHAKH_KUDUVAN_CS2.pdf"
+                href="/VaishakhMK_Comp.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transitions-color duration-300"
